@@ -13,20 +13,18 @@
 <img align="center" height="75px" width="250px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
           
 
-<img style="padding-top:55px" align="center" height="75px" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-          
-
-
-<img style="padding-top:55px" align="center" height="75px" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-          
-          
-
 
 
 <div>
 
 <div style="display: inline_block"><br>
 
+
+<img style="padding-top:55px" align="center" height="75px" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+          
+
+
+<img style="padding-top:55px" align="center" height="75px" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 
 </div>
 
